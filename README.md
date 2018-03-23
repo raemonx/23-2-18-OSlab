@@ -8,6 +8,6 @@
  * Get the process id and parent process id (23_2_18c)
  
  ## 23-03-18
- * Using the LSEEK_SET,LSEEK_CUR,LSEEK_END (23_3_18a)
- * Use of pipe() system call to copy contents of file (23_3_18b)
+ * Using the LSEEK_SET,LSEEK_CUR,LSEEK_END (23_03_18a)
+ * Use of pipe() system call to copy contents of file (23_03_18b)
  
