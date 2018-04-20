@@ -11,3 +11,6 @@
  * Using the LSEEK_SET,LSEEK_CUR,LSEEK_END (23_03_18a)
  * Use of pipe() system call to copy contents of file (23_03_18b)
  
+ ## 20-04-18
+ * Use of SIGNAL CALL-exception handling(signal.c)
+ * Use of SIGNAL CALL-alarm(alarm.c)
